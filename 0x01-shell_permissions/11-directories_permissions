@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x /alx-system_engineering-devops/0x01-shell_permissions
+chmod 711 dir0 dir1 dir2
