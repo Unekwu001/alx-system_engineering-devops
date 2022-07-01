@@ -1,6 +1,7 @@
 /*This sub repo deals with commands related to redirecting and filter */
 
-0-hello_world
+
+0-hello_world~
 Write a script that prints “Hello, World”, followed by a new line to the standard output.
 
 1-confused_smiley 
