@@ -21,3 +21,14 @@ Creates a script that creates a directory named my_first_directory in the /tmp/ 
 
 7-movethatfile~
 Moves the file betty from /tmp/ to /tmp/my_first_directory
+
+8-firstdelete~
+Deletes the file betty.The file betty is in /tmp/my_first_directory
+
+9-firstdirdeletion~
+Deletes the directory my_first_directory that is in the /tmp directory.
+
+10-back~
+Writes a script that changes the working directory to the previous one.
+
+
